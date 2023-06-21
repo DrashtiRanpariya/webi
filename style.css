@@ -243,6 +243,7 @@ body {
 	display: table;
 	margin: 0px auto 0px auto;
 	border: #3f4f22;
+	justify-content: center;
 	border-radius: 50px;
 }
 #crtx {
